@@ -1,0 +1,53 @@
+
+
+h2 {
+	font-family: 'Oswald', sans-serif;
+}
+
+.add-form {
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
+
+.center-table {
+    width: 70%;	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	box-sizing: border-box;
+	font-family: 'Oswald', sans-serif;
+}
+
+.center-table .label {
+	margin-left: 0px;
+	margin-top: 20px;
+	font-family: 'Oswald', sans-serif;
+}
+
+
+.add-element {
+    background-image: white;
+    border-radius: 10px;
+	border: none;
+    padding: 10px;
+    width: 100%;
+    margin-right: 20px;
+    margin-bottom: 10px;
+	font-family: 'Oswald', sans-serif;
+}
+
+.add-element:focus {
+    background-color: #BDC0BA;
+}
+
+.add-btn {
+    border-radius: 10px;
+    background-color: white;
+    padding: 5px 50px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+	border: none;
+	font-family: 'Oswald', sans-serif;
+	color: #787878;
+}
